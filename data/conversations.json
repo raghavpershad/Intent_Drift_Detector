@@ -1,0 +1,26 @@
+[
+  {
+    "conversation": [
+      "I have a headache",
+      "Is it something serious?",
+      "Could it be migraine?",
+      "Which doctor should I see?"
+    ]
+  },
+  {
+    "conversation": [
+      "I want to buy a laptop",
+      "Is MacBook good for programming?",
+      "How much RAM should I get?",
+      "Where can I buy it in Delhi?"
+    ]
+  },
+  {
+    "conversation": [
+      "I want to learn Python",
+      "Is Python good for AI?",
+      "Which course should I take?",
+      "Can you suggest a good platform?"
+    ]
+  }
+]
